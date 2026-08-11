@@ -23,6 +23,9 @@
     --font-body: 'Cairo', sans-serif;
     --font-heading: 'Amiri', serif;
 }
+.body{
+   overflow-x:hidden;
+}
 
 *, *::before, *::after {
     box-sizing: border-box;
