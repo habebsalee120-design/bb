@@ -365,6 +365,7 @@ nav {
     overflow: hidden;
     background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 60%, #1e5fa8 100%);
     min-height: 560px;
+   
     display: flex;
     align-items: center;
 }
@@ -377,7 +378,7 @@ nav {
 
 .hero-container {
     position: relative;
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 80px 24px;
     display: grid;
