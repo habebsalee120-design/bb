@@ -23,7 +23,7 @@
     --font-body: 'Cairo', sans-serif;
     --font-heading: 'Amiri', serif;
 }
-.body{
+body{
    overflow-x:hidden;
 }
 
